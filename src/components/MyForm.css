@@ -1,0 +1,49 @@
+#form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    width: 90%;
+    max-width: 400px;
+    background: radial-gradient(circle, #87CEEB, #ffffff);
+}
+
+.input{
+    margin: 25px;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+#submit{
+    padding: 6px;
+    width: 100px;
+    outline: 0;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#frm{
+    height: 100%;
+    width: 100%;
+}
+#heading{
+    text-align: center;
+    margin: 10px;
+}
+.inp{
+    width: 100%;
+    margin: 3px;
+    padding: 6px;
+    border-radius: 10px;
+    border: 1px solid black;
+    outline: 0;
+    
+}
+p{
+    color: red;
+}
