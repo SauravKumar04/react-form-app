@@ -1,12 +1,29 @@
-# React + Vite
+# React Form App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React form built using React Hook Form. It includes fields like First Name, Last Name, Email, Contact Number, and Address. Validation is handled using react-hook-form.
 
-Currently, two official plugins are available:
+## Features
+- React with Hooks
+- Form validation
+- Clean UI with CSS styling
+- SSH-based GitHub integration
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to Run
+1. Clone the repo
+```bash
+git clone git@github.com:SauravKumar04/react-form-app.git
+```
 
-## Expanding the ESLint configuration
+2. Install dependencies
+```bash
+npm install
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3. Start the app
+```bash
+npm start
+```
+
+## License
+MIT
+
